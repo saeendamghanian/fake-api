@@ -1,4 +1,5 @@
 [
+  bookingInfo: {
   {
     "id": 1,
     "title": "Mr",
@@ -48,5 +49,6 @@
     "roomId": 3,
     "checkInDate": "2017-08-30",
     "checkOutDate": "2017-10-02"
+  }
   }
 ]
