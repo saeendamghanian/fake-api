@@ -1,5 +1,6 @@
-[
-  bookingInfo: {
+{
+  "bookingInfo": 
+  [
   {
     "id": 1,
     "title": "Mr",
@@ -50,5 +51,5 @@
     "checkInDate": "2017-08-30",
     "checkOutDate": "2017-10-02"
   }
-  }
 ]
+}
